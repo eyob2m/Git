@@ -3,7 +3,7 @@ return (
 <div className="info">
     <div className="abt">
 <h3>About</h3>
-<p>Im Eyob Betemariam currently Software Engineering Student at AASTU. I have been working my oun Projects and Products.</p>
+<p>Im Eyob Betemariam currently Software Engineering Student at AASTU. I am working as frontend developer.</p>
 </div>
 <div className="int">
 <h3>Interests</h3>
