@@ -5,7 +5,7 @@ return (
 <div className="top">
 <img src={pic} alt="My Pic" />
 <h2>Eyob Betemariam</h2>
-<h3>Junior FromtEnd Developer</h3>
+<h3>Junior FrontEnd Developer</h3>
 <h4>Ethiopia, Addis Ababa</h4>
 </div>
 
