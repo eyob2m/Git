@@ -10,6 +10,10 @@ return (
     <li>Over 80 languages are spoken in Ethiopia</li>
     <li>Over half of Africa’s mountains are in Ethiopia</li>
     <li>The first African to win an Olympic gold medal was Ethiopian</li>
+    <li>Ethiopia has never been colonised</li>
+    <li>Ethiopia is Africa’s oldest country</li>
+    <li>Diverse Culture</li>
+    <li>Religional Tolerancy</li>
     </ul>
     
     </div>
