@@ -1,0 +1,76 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: none;
+  color: white;
+  display: inline-block;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(68, 61, 61);
+  font-family: 'Ysabeau Infant', sans-serif;
+}
+.home {
+  display: flex;
+  flex-wrap: wrap;
+}
+img {
+height: 300px;
+border: gray 2px solid;
+
+
+}
+
+.sold {
+ position: absolute;
+ top: 40px;
+ left: 40px;
+ 
+}
+.items {
+  margin: 10px 4px;
+  position: relative;
+  border-radius: 7px;
+  background-color: rgb(52, 49, 49);
+  height: 600px;
+  width: 400px;
+  display: inline-flex;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  
+}
+.rate span {
+  color: gray;
+}
+.rate {
+  display: flex;
+
+  width: 40%;
+  margin: 30px 0;
+  color: white;
+  font-size: 20px;
+  justify-content: space-between;
+}
+
+.name {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.price {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.info {
+ 
+  margin: 50px 0;
+
+  height: 300px;
+  padding: 10px;
+ ;
+}
+
+
+

@@ -1,0 +1,3 @@
+- Props
+- create components from array
+-
