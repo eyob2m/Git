@@ -1,0 +1,28 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main {
+  width: 400px;
+  height: fit-content;
+  background-color: aqua;
+}
+
+.state {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: cyan;
+  padding: 30px;
+  font-size: 30px;
+}
+
+.state button {
+  margin-top: 20px;
+  background-color: white;
+  cursor: pointer;
+  border: none;
+}

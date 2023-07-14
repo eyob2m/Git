@@ -1,6 +1,11 @@
 import React from 'react'
 import ph from "./assets/ethioc/gonder.jpeg"
 export default function Main(props){
+
+
+
+
+  
 return (
 <>
   <div className="main">
